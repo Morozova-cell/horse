@@ -1,0 +1,39 @@
+.header{
+	background: #008080;
+	height: 100px;
+	text-align: center;
+	font-size: 36px;
+	color: white;
+}
+.left {
+	height: 670px;
+	background: url(../../img/background45.jpg);} 
+.footer{
+	background: #008080;
+height: 50px;
+font-size: 26 px;
+	color: white;
+	width: 1400;
+	margin-left: -120;}
+.section {
+height: 300;}
+.background {background:#FAF0E6;} 
+.background1 {
+	width: 400px;
+	height: 350px;
+	text-align: center;
+	font-size: 16px;
+	;
+	}
+	
+	
+	
+@media screen and (max-width: 576px) {
+	.left {
+height: 100px;}
+	.background1 {
+		width: 250;
+	height: 300;
+	position: center;}
+	.footer {
+height: 90 px;}}
